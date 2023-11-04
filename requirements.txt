@@ -1,0 +1,7 @@
+matplotlib
+tensorflow
+yellowbrick
+opencv-python
+scikit-learn
+seaborn
+numpy
