@@ -1,3 +1,6 @@
+<div align="center"><img src="Images/Logo.png" alt="Brain Tumor Classification" style='width : 50%'></div>
+
+
 # Brain Tumor Classification Project
 
 ## Overview
